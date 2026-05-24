@@ -33,6 +33,13 @@ The platform detects security vulnerabilities, risky coding patterns, code smell
 | **Dashboard** | Interactive review dashboard, inline diff viewer, repository activity tracking, review analytics |
 
 ---
+## Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/TumYwdceRh4/maxresdefault.jpg)](https://youtu.be/TumYwdceRh4)
+
+## Pitch Deck
+
+[View PRISMA Pitch Deck](https://1drv.ms/p/c/8faab0c6b892720b/IQD8Eyln0CqNT4f6q5U1uVcPAcox3QzrSwIkmX9gO4AHIbA?e=RjNwK1)
 
 ## Tech Stack
 
